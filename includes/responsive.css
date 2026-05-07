@@ -1,0 +1,10 @@
+/* Responsive intro animation */
+@media (max-width: 768px) {
+    .boy-with-flowers {
+        width: 200px;
+        height: 200px;
+    }
+    .intro-text {
+        font-size: 2.5rem;
+    }
+}
